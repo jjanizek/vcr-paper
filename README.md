@@ -32,3 +32,6 @@ pip3 install timm==0.6.12
 
 ### Experiments
 
+1. To replicate the synthetic data experiments in Fig. 2/Fig. 3 etc, run the script in src/experiments/fig_2.py, and then plot with src/plotsplot_nonadv_composite.py
+2. To replicate the synthetic data experiments in Fig. 4, run the script in src/experiments/fig_4.py
+3. To measure classification performance of models (like Fig. 5), run the script in src/experiments/fig_5.py
