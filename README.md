@@ -1,4 +1,4 @@
-## Getting Started
+Repository to reproduce experiments for [Visual concept ranking uncovers medical shortcuts used by large multimodal models](https://arxiv.org/abs/2602.05096)
 
 ### Data sources
 
